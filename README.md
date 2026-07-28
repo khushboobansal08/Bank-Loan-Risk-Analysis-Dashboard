@@ -26,14 +26,37 @@ This project involves the end-to-end processing of over 10,000 banking loan reco
 - Borrower risk segmentation
 - Interactive slicers for filtering by demographics and payment history
 
+## 📷 Dashboard Preview
+
+### Home Dashboard
+![Home Dashboard](Screenshots/Home%20Dashboard.png)
+
+### Loan Analysis Dashboard
+![Loan Analysis Dashboard](Screenshots/Loan%20Analysis%20Dashboard.png)
+
+### Deposit Analysis Dashboard
+![Deposit Analysis Dashboard](Screenshots/Deposit%20Analysis%20Dashboard.png)
+
+### Summary Dashboard
+![Summary Dashboard](Screenshots/Summary%20Dashboard.png)
+
 ## 📁 Folder Structure
-├── backgrounds/ # background templates for dashboard
-├── datasets/ # raw datasets
-├── Banking.csv/ # cleaned dataset
-├── clients.csv/ # cleaned clients dataset
-├── Dashboard.pbix/ # PowerBI dashboard
-├── EDA.ipynb/ # EDA file using pandas and matplotlib
-└── README.md
+
+Dataset/
+├── Banking.csv
+├── clients.csv
+
+Power BI/
+├── Dashboard.pbix
+
+Python/
+├── EDA.ipynb
+
+Screenshots/
+
+Dashboard Background/
+
+README.md
 
 ## ✅ How to Run
 
