@@ -29,16 +29,16 @@ This project involves the end-to-end processing of over 10,000 banking loan reco
 ## 📷 Dashboard Preview
 
 ### Home Dashboard
-![Home Dashboard](Screenshots/Home%20Dashboard.png)
+![Home Dashboard](Screenshots/Homepage.png)
 
 ### Loan Analysis Dashboard
-![Loan Analysis Dashboard](Screenshots/Loan%20Analysis%20Dashboard.png)
+![Loan Analysis Dashboard](Screenshots/Loan_analysis.png)
 
 ### Deposit Analysis Dashboard
-![Deposit Analysis Dashboard](Screenshots/Deposit%20Analysis%20Dashboard.png)
+![Deposit Analysis Dashboard](Screenshots/Deposit_analysis.png)
 
 ### Summary Dashboard
-![Summary Dashboard](Screenshots/Summary%20Dashboard.png)
+![Summary Dashboard](Screenshots/Summary_Page.png)
 
 ## 📁 Folder Structure
 
